@@ -75,7 +75,7 @@ section.imagem{
     background-attachment: fixed;
 }
 
-section.imagem > P{
+section.imagem > p {
     display: inline-block;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
